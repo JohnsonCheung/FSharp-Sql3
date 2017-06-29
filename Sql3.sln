@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26608.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sql3", "Sql3\Sql3.fsproj", "{F143B35A-2907-448E-92D9-4FCFDDB25AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F143B35A-2907-448E-92D9-4FCFDDB25AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F143B35A-2907-448E-92D9-4FCFDDB25AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F143B35A-2907-448E-92D9-4FCFDDB25AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F143B35A-2907-448E-92D9-4FCFDDB25AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
